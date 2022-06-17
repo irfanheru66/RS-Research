@@ -26,7 +26,12 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+Training/Cifar-10/CIFAR-10-images-master
+Training/Cifar-10/logs
+Training/Cifar-10/~
+Training/Imagenette/~
 
+.vscode
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
